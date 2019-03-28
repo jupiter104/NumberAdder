@@ -1,0 +1,7 @@
+C:\Users\Debashis\source\repos\NumberAdder\NumberAdder\bin\Debug\NumberAdder.exe.config
+C:\Users\Debashis\source\repos\NumberAdder\NumberAdder\bin\Debug\NumberAdder.exe
+C:\Users\Debashis\source\repos\NumberAdder\NumberAdder\bin\Debug\NumberAdder.pdb
+C:\Users\Debashis\source\repos\NumberAdder\NumberAdder\obj\Debug\NumberAdder.csprojAssemblyReference.cache
+C:\Users\Debashis\source\repos\NumberAdder\NumberAdder\obj\Debug\NumberAdder.csproj.CoreCompileInputs.cache
+C:\Users\Debashis\source\repos\NumberAdder\NumberAdder\obj\Debug\NumberAdder.exe
+C:\Users\Debashis\source\repos\NumberAdder\NumberAdder\obj\Debug\NumberAdder.pdb
