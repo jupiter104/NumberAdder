@@ -25,8 +25,6 @@ namespace NumberAdder
 
                 Console.WriteLine(sum.ToString());
             }
-
-            Console.Read();
         }
     }
 }
